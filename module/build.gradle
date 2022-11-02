@@ -42,5 +42,6 @@ dependencies {
 
     // version 19.1.1 works, version 20.0.0 causes a crash
 //    implementation 'com.google.firebase:firebase-perf-ktx:19.1.1'
-    implementation 'com.google.firebase:firebase-perf-ktx:20.0.0'
+    implementation 'com.google.firebase:firebase-perf-ktx:20.2.0'
+//    implementation 'com.google.firebase:firebase-perf-ktx:20.0.0'
 }
